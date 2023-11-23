@@ -21,5 +21,5 @@ make clean
 ```
 Then you just need to compile your program with the libftprintf.a
 
-# Score obtained
+# Grade obtained
 ![100](Project_score.png)
