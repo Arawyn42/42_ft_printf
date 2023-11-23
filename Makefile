@@ -6,7 +6,7 @@
 #    By: drenassi <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/10/11 13:52:22 by drenassi          #+#    #+#              #
-#    Updated: 2023/10/13 14:25:33 by drenassi         ###   ########.fr        #
+#    Updated: 2023/10/19 14:34:40 by drenassi         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@ OBJS	=	$(SRCS:.c=.o)
 
 CC		=	cc
 
-CFLAGS	=	-Wall -Wextra -Werror -g
+CFLAGS	=	-Wall -Wextra -Werror
 
 NAME	=	libftprintf.a
 
