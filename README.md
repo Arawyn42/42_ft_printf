@@ -24,9 +24,3 @@ make
 make clean
 ```
 Then you just need to compile your program with the libftprintf.a
-<<<<<<< HEAD
-=======
-
-# Grade obtained
-![100](grade.png)
->>>>>>> 69eaf30e4631938292ebb6b8faacd9a9cbdfa5da
