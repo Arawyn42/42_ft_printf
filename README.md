@@ -1,12 +1,16 @@
 # <div align="center">⚙️ ft_printf (a [42](https://42perpignan.fr/) project) ⚙️</div>
 
+## Grade
+![drenassi's 42 ft_printf Score](https://badge42.coday.fr/api/v2/clph33bao098101t6vnzqbe17/project/3358920)
+
+## Introduction
 **ft_printf** is the second project I did for 42 School.
 
 This project consists in reproducing the real printf function. Our printf has to handle %s, %d, %i, %p, %u, %x, %X.
 
 In the bonus version of the project, it must handle more parameters, but I didn't do the bonus for this project.
 
-# How to use ?
+## How to use ?
 First, clone the ft_printf repository with:
 ```bash
   git clone https://github.com/Arawyn42/42_ft_printf
@@ -20,6 +24,3 @@ make
 make clean
 ```
 Then you just need to compile your program with the libftprintf.a
-
-# Grade obtained
-![100](Project_score.png)
